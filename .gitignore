@@ -1,0 +1,6 @@
+target
+Cargo.lock
+compose.yaml
+Dockerfile
+/db
+.dockerignore
